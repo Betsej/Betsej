@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
   
 ### Hi, I am Betty ✨ 	:woman_technologist:, 
 
-> <p > An aspiring Software Engineer currently taking the ALX Software Engineering Course. <br>
+> <p > An aspiring Software Engineer currently in transition from Virtual Assistant to Software Engineering and taking the ALX Software Engineering Course. <br>
 > I'm based in Abuja, Nigeria :nigeria: . <br /> 
 > I look forward to joining a remote team and becoing an integral part of the team.</p>
 
