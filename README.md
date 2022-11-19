@@ -17,17 +17,6 @@ You can click the Preview link to take a look at your changes.
 > <p > An aspiring Software Engineer currently in transition from Virtual Assistant to Software Engineering and taking the ALX Software Engineering Course. <br>
 > I'm based in Abuja, Nigeria :nigeria: . <br /> 
 > I look forward to joining a remote team and becoing an integral part of the team.</p>
-
-  <p align="center">
-    <a href="https://github.com/Betsej/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/Betsej/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/Betsej/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/Betsej/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-  </p>
   
   ## Menu
   - [Technology Stack](#technologies)
