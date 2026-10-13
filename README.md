@@ -70,3 +70,6 @@ A relational database project exploring customers, products, suppliers, orders, 
 ## 🤝 Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi)
+* [Portfolio Website](https://betsej.github.io/)
+
+
