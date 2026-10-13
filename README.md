@@ -2,7 +2,8 @@
 
 ### Hi, I am Betty ✨ :woman_technologist:
 
-> <p> Data Analyst (Excel · SQL · Power BI) | Software Engineering background <br>
+> <p> Data Analyst | Excel · SQL · Power BI | Finance & Operations Background | Open to Remote, Hybrid & On-site Opportunities 🇳🇬
+ | Software Engineering background <br>
 > I'm based in Abuja, Nigeria :nigeria: . <br />
 > I look forward to joining a remote team and becoming an integral part of it.</p>
 
