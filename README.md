@@ -47,3 +47,26 @@
 </p>
 
 </body>
+
+
+## 📊 Featured Projects
+
+### 🛒 Supermarket Sales Dashboard
+
+An Excel dashboard exploring sales performance, product categories, customer segments, and revenue across different cities.
+
+**Tools:** Microsoft Excel, PivotTables, Charts, and Slicers.
+
+[View Project](https://github.com/Betsej/Supermarket-Sales-Dashboard)
+
+### 🗄️ Market SQL Database
+
+A relational database project exploring customers, products, suppliers, orders, and sales transactions using SQL.
+
+**Tools:** SQL, relational database design, and JOIN queries.
+
+[View Project](https://github.com/Betsej/market-sql-database)
+
+## 🤝 Let's Connect
+
+* [LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi)
