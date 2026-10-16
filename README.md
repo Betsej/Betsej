@@ -1,5 +1,3 @@
-] <body id="top">
-
 ### Hi, I am Orherime Betty Ejakpovi (Betty) ✨ :woman_technologist:
 
 **Data Analyst | Excel · SQL · Power BI | Finance & Operations | Software Engineering Background**
