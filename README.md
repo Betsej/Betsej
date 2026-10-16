@@ -1,9 +1,20 @@
-<body id="top">
+] <body id="top">
 
-### Hi, I am Betty ✨ :woman_technologist:
+### Hi, I am Orherime Betty Ejakpovi (Betty) ✨ :woman_technologist:
 
-Data Analyst | Excel · SQL · Power BI | Finance & Operations | Software Engineering Background | Abuja, Nigeria 🇳🇬 | Open to Remote, Hybrid & On-site Roles
+**Data Analyst | Excel · SQL · Power BI | Finance & Operations | Software Engineering Background**
+Abuja, Nigeria 🇳🇬 | Open to Remote, Hybrid & On-site Roles
 
+[Portfolio](https://betsej.github.io) · [LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi) · bejakpovi@gmail.com
+
+## 📊 Featured Projects
+
+- **[Anaemia Among Women in Nigeria](https://github.com/Betsej/anaemia-women-nigeria-ndhs)**: Excel and Power BI analysis of 4,415 cases from the 2018 NDHS
+- **[Children's Anemia in Nigeria](https://github.com/Betsej/anaemia-children-nigeria-ndhs)**: Excel and Power BI case study of 7,003 children
+- **[Supermarket Sales Dashboard (Power BI)](https://github.com/Betsej/Supermarket-Sales-Dashboard-PowerBI)**: revenue by city, product line, customer type and gender
+- **[Supermarket Sales Dashboard (Excel)](https://github.com/Betsej/Supermarket-Sales-Dashboard)**: PivotTables, charts and slicers
+- **[Sales Performance Dashboard (Power BI)](https://github.com/Betsej/sales-performance-dashboard)**: star schema model and DAX measures
+- **[Market SQL Database](https://github.com/Betsej/market-sql-database)**: 5-table MySQL database with JOIN queries
 
 ## Menu
 - [Technology Stack](#technologies)
@@ -39,36 +50,3 @@ Data Analyst | Excel · SQL · Power BI | Finance & Operations | Software Engine
 <a href="mailto:bejakpovi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/mail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-- - - -
-<p align="right">
-  <a href="#top">Back to top</a>
-</p>
-
-</body>
-
-
-## 📊 Featured Projects
-
-### 🛒 Supermarket Sales Dashboard
-
-An Excel dashboard exploring sales performance, product categories, customer segments, and revenue across different cities.
-
-**Tools:** Microsoft Excel, PivotTables, Charts, and Slicers.
-
-[View Project](https://github.com/Betsej/Supermarket-Sales-Dashboard)
-
-### 🗄️ Market SQL Database
-
-A relational database project exploring customers, products, suppliers, orders, and sales transactions using SQL.
-
-**Tools:** SQL, relational database design, and JOIN queries.
-
-[View Project](https://github.com/Betsej/market-sql-database)
-
-## 🤝 Let's Connect
-
-* [LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi)
-* [Portfolio Website](https://betsej.github.io/)
-
-
