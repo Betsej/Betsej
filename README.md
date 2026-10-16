@@ -38,9 +38,6 @@ Abuja, Nigeria 🇳🇬 | Open to Remote, Hybrid & On-site Roles
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Betsej&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Betty's streak" /></p>
 
-## Github Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Betsej&theme=algolia&column=4">
-
 ### 📫 You can reach me here:
 <a href="https://www.linkedin.com/in/orherime-ejakpovi" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
